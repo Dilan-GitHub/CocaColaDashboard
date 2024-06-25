@@ -83,4 +83,4 @@ The dataset used for this project includes the following columns:
 
 This Power BI dashboard provides comprehensive insights into Coca-Cola's sales data, enabling stakeholders to make data-driven decisions to enhance sales strategies and improve profitability.
 
-For more details, you can view the Power BI dashboard file [here](link_to_your_Power_BI_file) and the corresponding PDF report [here](link_to_your_PDF_report).
+For more details, you can view the Power BI dashboard file [HERE](https://github.com/Dilan-GitHub/CocaColaDashboard/blob/main/Coca%20Cola%20Sales%20Dashboard.pbix) [HERE](https://github.com/Dilan-GitHub/CocaColaDashboard/blob/main/Coca%20Cola%20Sales%20Dashboard.pdf)
